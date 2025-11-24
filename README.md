@@ -29,3 +29,8 @@
 ### 🎮 Интересы
 
 Люблю игры и увлекаюсь религией Ислам. Моя цель — развиваться в программировании, маркетинге и дизайне.
+
+
+### 🏆 GitHub Trophy
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paradoxcalm&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
