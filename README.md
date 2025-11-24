@@ -3,28 +3,11 @@
 
 <p align="center">
 Менеджер маркетплейсов Wildberries и Ozon, начинающий разработчик (Go, Python, Telegram‏-боты), любящий PHP, JavaScript и CSS. Создаю продукты, улучшаю карточки товаров и постоянно учусь.
-</p>
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=paradoxcalm&show_icons=true&theme=radical">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=paradoxcalm&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxcalm&layout=compact&theme=radical">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paradoxcalm&layout=compact&theme=radical" alt="Top Languages"/>
-  </a>
+</p
+  <div align="center">
+  <img src="https://ghchart.rshah.org/paradoxcalm" alt="GitHub Contributions Graph" />
 </div>
 
-<div align="center">
-  <a href="https://streak-stats.demolab.com?user=paradoxcalm&theme=radical">
-    <img height="165" src="https://streak-stats.demolab.com?user=paradoxcalm&theme=radical" alt="GitHub Streak"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://activity-graph.herokuapp.com/graph?username=paradoxcalm&theme=github">
-    <img src="https://activity-graph.herokuapp.com/graph?username=paradoxcalm&theme=github" alt="GitHub Activity Graph"/>
-  </a>
-</div>
 
 ### Стек технологий
 
