@@ -1,31 +1,56 @@
-<!-- Профиль ParadoxCalm -->
-<h2 align="center">Привет, я ParadoxCalm 👋</h2>
+<!-- Terminal Hacker Style Profile -->
 
-<p align="center">
-Менеджер маркетплейсов Wildberries и Ozon, начинающий разработчик (Go, Python, Telegram‏-боты), любящий PHP, JavaScript и CSS. Создаю продукты, улучшаю карточки товаров и постоянно учусь.
-</p
-  <div align="center">
-  <img src="https://ghchart.rshah.org/paradoxcalm" alt="GitHub Contributions Graph" />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=00FF00&center=true&vCenter=true&width=600&lines=$+whoami;ParadoxCalm;Developer+%7C+Fullstack+%7C+Marketplace+Pro;Coding+since+2024...;Access+Granted." />
 </div>
 
+```bash
+┌──(paradoxcalm⑯github)-[~/profile]
+└─$ cat about_me.txt
+Менеджер маркетплейсов Wildberries/Ozon.
+Full-Stack разработчик (Go, JS, PHP, CSS, MySQL).
+Создаю системы, автоматизацию, логику и дизайн.
+Постоянно изучаю новое и развиваю свои продукты.
+```
 
-### Стек технологий
+## 🟩 My Contributions (Hacker Graph)
 
-- **Языки программирования:** Go, Python, JavaScript, PHP
-- **Инструменты и технологии:** Git, Docker, Telegram Bot API, HTML/CSS, JS‏-фреймворки
-- **Базы данных:** PostgreSQL, MySQL
+<div align="center">
+  <img src="https://ghchart.rshah.org/00ff00/paradoxcalm" width="700">
+</div>
 
-### Связь со мной
+## 🟩 Skills.log
 
-- Telegram: [@ParadoxCalm](https://t.me/ParadoxCalm)
-- Email: <paradoxcalm@mail.ru>
-- Instagram: [@paraadoxcalm](https://instagram.com/paraadoxcalm)
-- ВКонтакте: [vk.com/paradox_calm](https://vk.com/paradox_calm)
+```bash
+# languages
+Go      Python      JavaScript      PHP
 
-### Интересы
+# web tech
+HTML    CSS    Docker    TelegramAPI    MySQL
 
-Мировозрение Ислам и увлекаюсь играми. Моя цель — развиваться в программировании, маркетинге и дизайне.
+# marketplaces
+Wildberries      Ozon      Analytics      Automation
+```
 
-### GitHub Trophy
+## 🟩 Contact.sh
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=paradoxcalm&theme=radical&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+```bash
+telegram    : @ParadoxCalm
+email       : paradoxcalm@mail.ru
+instagram   : @paraadoxcalm
+vk          : vk.com/paradox_calm
+```
+
+## 🟩 Achievements.bin
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=paradoxcalm&theme=onestar&no-frame=true&margin-w=10" />
+</div>
+
+## 🟩 Terminal-Motd
+
+```bash
+Цель: создание мощных систем, сервисов и автоматизации.
+Формат: минимум слов — максимум результата.
+Стиль: холодный, чистый, зелёный терминал.
+```
