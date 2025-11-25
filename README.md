@@ -36,7 +36,7 @@ Wildberries      Ozon      Analytics      Automation
 
 ```bash
 telegram    : @ParadoxCalm
-email       : paradoxcalm@mail.ru
+email       : *******************
 instagram   : @paraadoxcalm
 vk          : vk.com/paradox_calm
 ```
